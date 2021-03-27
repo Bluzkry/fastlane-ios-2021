@@ -1,0 +1,2 @@
+json_key_file("pc-api-8188359477494611445-385-e992996fd211.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.fastlanereactnative2021") # e.g. com.krausefx.app
